@@ -1,0 +1,8 @@
+{
+  "settings": {
+    "language": "ru",
+    "screen_time_tracking": true,
+    "monitor_approval": true,
+    "security": "System32 protection"
+  }
+}
